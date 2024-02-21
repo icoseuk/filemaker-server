@@ -87,5 +87,5 @@ USER root
 
 CMD ["/sbin/init"]
 
-LABEL org.opencontainers.image.source=https://github.com/icoseuk/filemaker-server-image-builder
+LABEL org.opencontainers.image.source=https://github.com/icoseuk/filemaker-server
 LABEL org.opencontainers.image.description="FileMaker Server"
