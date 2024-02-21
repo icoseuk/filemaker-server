@@ -1,6 +1,6 @@
-# FileMaker Server Docker Image
+# Dockerize FileMaker Server
 
-This is a Docker image for FileMaker Server, 
+A Docker image builder for FileMaker Server.
 
 ## Usage
 
